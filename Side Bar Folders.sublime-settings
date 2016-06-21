@@ -3,6 +3,13 @@
 	[
 		{
 			"path": "E:\\WorkFiles\\ArduinoWork\\FoldClothes"
+		},
+		{
+			"path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\Firmata\\examples\\SimpleDigitalFirmata"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\Bridge\\examples\\Bridge"
 		}
 	]
 }

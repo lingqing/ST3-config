@@ -12,6 +12,7 @@
 		"C++ Completions",
 		"DocBlockr",
 		"Emmet",
+		"Folder2Project",
 		"Git",
 		"MarkdownEditing",
 		"Package Control",
@@ -20,7 +21,6 @@
 		"SideBarFolders",
 		"SlideNav",
 		"Stino",
-		"Sublimall",
 		"SublimeLinter"
 	],
 	"repositories":

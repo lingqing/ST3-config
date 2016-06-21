@@ -6,8 +6,311 @@
                 "caption": "\u9879\u76ee\u5e93", 
                 "children": [
                     {
-                        "caption": "\u65e0", 
-                        "command": "none_command"
+                        "caption": "Firmata", 
+                        "children": [
+                            {
+                                "caption": "test", 
+                                "children": [
+                                    {
+                                        "args": {
+                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\Firmata\\test\\firmata_test"
+                                        }, 
+                                        "caption": "firmata_test", 
+                                        "command": "open_sketch"
+                                    }
+                                ]
+                            }
+                        ]
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\TimerOne"
+                        }, 
+                        "caption": "TimerOne", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "caption": "WiFi", 
+                        "children": [
+                            {
+                                "caption": "extras", 
+                                "children": [
+                                    {
+                                        "caption": "wifi_dnld", 
+                                        "children": [
+                                            {
+                                                "caption": "src", 
+                                                "children": [
+                                                    {
+                                                        "caption": "SOFTWARE_FRAMEWORK", 
+                                                        "children": [
+                                                            {
+                                                                "caption": "COMPONENTS", 
+                                                                "children": [
+                                                                    {
+                                                                        "caption": "MEMORY", 
+                                                                        "children": [
+                                                                            {
+                                                                                "caption": "DATA_FLASH", 
+                                                                                "children": [
+                                                                                    {
+                                                                                        "args": {
+                                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifi_dnld\\src\\SOFTWARE_FRAMEWORK\\COMPONENTS\\MEMORY\\DATA_FLASH\\AT45DBX"
+                                                                                        }, 
+                                                                                        "caption": "AT45DBX", 
+                                                                                        "command": "open_sketch"
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }, 
+                                                            {
+                                                                "caption": "DRIVERS", 
+                                                                "children": [
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifi_dnld\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\FLASHC"
+                                                                        }, 
+                                                                        "caption": "FLASHC", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifi_dnld\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\GPIO"
+                                                                        }, 
+                                                                        "caption": "GPIO", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifi_dnld\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\INTC"
+                                                                        }, 
+                                                                        "caption": "INTC", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifi_dnld\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\PM"
+                                                                        }, 
+                                                                        "caption": "PM", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifi_dnld\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\SPI"
+                                                                        }, 
+                                                                        "caption": "SPI", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifi_dnld\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\USART"
+                                                                        }, 
+                                                                        "caption": "USART", 
+                                                                        "command": "open_sketch"
+                                                                    }
+                                                                ]
+                                                            }, 
+                                                            {
+                                                                "caption": "SERVICES", 
+                                                                "children": [
+                                                                    {
+                                                                        "caption": "MEMORY", 
+                                                                        "children": [
+                                                                            {
+                                                                                "args": {
+                                                                                    "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifi_dnld\\src\\SOFTWARE_FRAMEWORK\\SERVICES\\MEMORY\\CTRL_ACCESS"
+                                                                                }, 
+                                                                                "caption": "CTRL_ACCESS", 
+                                                                                "command": "open_sketch"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }, 
+                                                            {
+                                                                "caption": "UTILS", 
+                                                                "children": [
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifi_dnld\\src\\SOFTWARE_FRAMEWORK\\UTILS\\DEBUG"
+                                                                        }, 
+                                                                        "caption": "DEBUG", 
+                                                                        "command": "open_sketch"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "caption": "wifiHD", 
+                                        "children": [
+                                            {
+                                                "caption": "src", 
+                                                "children": [
+                                                    {
+                                                        "caption": "SOFTWARE_FRAMEWORK", 
+                                                        "children": [
+                                                            {
+                                                                "caption": "COMPONENTS", 
+                                                                "children": [
+                                                                    {
+                                                                        "caption": "MEMORY", 
+                                                                        "children": [
+                                                                            {
+                                                                                "caption": "DATA_FLASH", 
+                                                                                "children": [
+                                                                                    {
+                                                                                        "args": {
+                                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\COMPONENTS\\MEMORY\\DATA_FLASH\\AT45DBX"
+                                                                                        }, 
+                                                                                        "caption": "AT45DBX", 
+                                                                                        "command": "open_sketch"
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }, 
+                                                            {
+                                                                "caption": "DRIVERS", 
+                                                                "children": [
+                                                                    {
+                                                                        "caption": "EBI", 
+                                                                        "children": [
+                                                                            {
+                                                                                "args": {
+                                                                                    "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\EBI\\SMC"
+                                                                                }, 
+                                                                                "caption": "SMC", 
+                                                                                "command": "open_sketch"
+                                                                            }
+                                                                        ]
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\EIC"
+                                                                        }, 
+                                                                        "caption": "EIC", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\FLASHC"
+                                                                        }, 
+                                                                        "caption": "FLASHC", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\GPIO"
+                                                                        }, 
+                                                                        "caption": "GPIO", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\INTC"
+                                                                        }, 
+                                                                        "caption": "INTC", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\PDCA"
+                                                                        }, 
+                                                                        "caption": "PDCA", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\PM"
+                                                                        }, 
+                                                                        "caption": "PM", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\RTC"
+                                                                        }, 
+                                                                        "caption": "RTC", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\SPI"
+                                                                        }, 
+                                                                        "caption": "SPI", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\TC"
+                                                                        }, 
+                                                                        "caption": "TC", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\USART"
+                                                                        }, 
+                                                                        "caption": "USART", 
+                                                                        "command": "open_sketch"
+                                                                    }
+                                                                ]
+                                                            }, 
+                                                            {
+                                                                "caption": "SERVICES", 
+                                                                "children": [
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\SERVICES\\DELAY"
+                                                                        }, 
+                                                                        "caption": "DELAY", 
+                                                                        "command": "open_sketch"
+                                                                    }, 
+                                                                    {
+                                                                        "caption": "MEMORY", 
+                                                                        "children": [
+                                                                            {
+                                                                                "args": {
+                                                                                    "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\SERVICES\\MEMORY\\CTRL_ACCESS"
+                                                                                }, 
+                                                                                "caption": "CTRL_ACCESS", 
+                                                                                "command": "open_sketch"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }, 
+                                                            {
+                                                                "caption": "UTILS", 
+                                                                "children": [
+                                                                    {
+                                                                        "args": {
+                                                                            "sketch_path": "D:\\Program Files\\Project\\arduino-1.6.9\\libraries\\WiFi\\extras\\wifiHD\\src\\SOFTWARE_FRAMEWORK\\UTILS\\DEBUG"
+                                                                        }, 
+                                                                        "caption": "DEBUG", 
+                                                                        "command": "open_sketch"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ], 
                 "id": "sketchbook"
