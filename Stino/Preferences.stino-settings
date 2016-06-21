@@ -1,0 +1,13 @@
+{
+    "arduino_ide_path": "D:\\Program Files\\Project\\arduino-1.6.9", 
+    "build_verbose": true, 
+    "display_mode": "Hex", 
+    "lang_id": "zh_cn", 
+    "serial_port": "COM4", 
+    "show_arduino_menu": true, 
+    "sketchbook_path": "C:\\Users\\Andy\\Documents\\Arduino", 
+    "target_board_id": "ide.arduino.avr.uno", 
+    "target_programmer_id": "ide.arduino.avr.avrisp", 
+    "upload_verbose": true, 
+    "verify_code": false
+}

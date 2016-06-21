@@ -1,0 +1,23 @@
+[
+    {
+        "caption": "Arduino", 
+        "children": [
+            {
+                "caption": "\u4e32\u53e3", 
+                "children": [
+                    {
+                        "args": {
+                            "serial_port": "COM4"
+                        }, 
+                        "caption": "COM4", 
+                        "checkbox": true, 
+                        "command": "select_serial_port"
+                    }
+                ], 
+                "id": "serial_port"
+            }
+        ], 
+        "id": "arduino", 
+        "mnemonic": "A"
+    }
+]

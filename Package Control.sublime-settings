@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AsciiConverter",
+		"Asciidoctor",
+		"auto-save",
+		"BracketHighlighter",
+		"C++ Completions",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"MarkdownEditing",
+		"Package Control",
+		"Processing",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SlideNav",
+		"Stino",
+		"Sublimall",
+		"SublimeLinter"
+	],
+	"repositories":
+	[
+		"https://github.com/gepd/Stino/tree/new-stino"
+	]
+}
